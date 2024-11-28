@@ -1,0 +1,241 @@
+[
+  {
+    "document": "Foundation_21",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lung",
+    "Date of Collection": "DATE OF COLLECTION 17 December 2021",
+    "Report Date": "14 Feb 2022",
+    "Genomic Findings": [
+      {
+        "Name": "CD274 (PD-L1) amplification",
+        "Clinical": [
+          "Atezolizumab",
+          "Cemiplimab",
+          "Durvalumab",
+          "Nivolumab",
+          "Nivolumab + Ipilimumab",
+          "Pembrolizumab",
+          "Dostarlimab"
+        ],
+        "No Clinical": ["Avelumab"]
+      },
+      {
+        "Name": "PDCD1LG2 (PD-L2) amplification",
+        "Clinical": [
+          "Atezolizumab",
+          "Cemiplimab",
+          "Durvalumab",
+          "Nivolumab",
+          "Pembrolizumab",
+          "Dostarlimab"
+        ],
+        "No Clinical": ["Avelumab"]
+      },
+      {
+        "Name": "MET exon 14 splice site (2888-1G>C), amplification",
+        "Clinical": ["Capmatinib", "Crizotinib", "Tepotinib"],
+        "No Clinical": ["Cabozantinib"]
+      },
+      {
+        "Name": "ATM R337H",
+        "Clinical": [],
+        "No Clinical": ["Niraparib", "Olaparib", "Rucaparib", "Talazoparib"]
+      },
+      { "Name": "CDK4 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "CDK6 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "CDKN2A/B p16INK4a loss and p14ARF loss exons 2-3",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "EPHB4 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "ERBB3 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "JAK2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "SPEN A2804fs*5", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 9 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_22",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Cervix",
+    "Date of Collection": "DATE OF COLLECTION 10 August 2021",
+    "Report Date": "13 Jan 2022",
+    "Genomic Findings": [
+      {
+        "Name": "NF1 H1460fs*9",
+        "Clinical": [],
+        "No Clinical": ["Selumetinib", "Trametinib"]
+      },
+      { "Name": "MTAP loss", "Clinical": [], "No Clinical": [] },
+      { "Name": "PIK3R1 Y452_R461>I", "Clinical": [], "No Clinical": [] },
+      { "Name": "BCL6 N73S", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "CDKN2A/B CDKN2A loss, CDKN2B loss",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "MAP2K4 loss exons 2-11", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 R196Q - subclonal", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_23",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Mediastinum",
+    "Date of Collection": "DATE OF COLLECTION 19 December 2019",
+    "Report Date": "25 Feb 2022",
+    "Genomic Findings": [
+      {
+        "Name": "MET exon 14 splice site (3028+1G>A)",
+        "Clinical": ["Capmatinib", "Crizotinib", "Tepotinib"],
+        "No Clinical": ["Cabozantinib"]
+      },
+      { "Name": "CDK4 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "KRAS amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "TET2 S424fs*3", "Clinical": [], "No Clinical": [] },
+      { "Name": "ALK", "Clinical": [], "No Clinical": [] },
+      { "Name": "BRAF", "Clinical": [], "No Clinical": [] },
+      { "Name": "EGFR", "Clinical": [], "No Clinical": [] },
+      { "Name": "ERBB2", "Clinical": [], "No Clinical": [] },
+      { "Name": "RET", "Clinical": [], "No Clinical": [] },
+      { "Name": "ROS1", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Tumor Mutational Burden - 11 Muts/Mb",
+        "Clinical": [
+          "Atezolizumab",
+          "Cemiplimab",
+          "Durvalumab",
+          "Nivolumab",
+          "Nivolumab + Ipilimumab",
+          "Pembrolizumab",
+          "Dostarlimab"
+        ],
+        "No Clinical": ["Avelumab"]
+      },
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "Y"
+  },
+  {
+    "document": "Foundation_24",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 09 December 2021",
+    "Report Date": "28 Dec 2021",
+    "Genomic Findings": [
+      {
+        "Name": "ERBB2 A775_G776insYVMA",
+        "Clinical": ["Afatinib"],
+        "No Clinical": [
+          "Ado-trastuzumab emtansine",
+          "Fam-trastuzumab deruxtecan",
+          "Trastuzumab",
+          "Trastuzumab + Pertuzumab",
+          "Lapatinib"
+        ]
+      },
+      { "Name": "IDH1 R132H", "Clinical": [], "No Clinical": ["Ivosidenib"] },
+      { "Name": "APC S1545*", "Clinical": [], "No Clinical": [] },
+      { "Name": "DNMT3A W860R", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 S127F", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Elevated Tumor Fraction Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_25",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 17 December 2021",
+    "Report Date": "03 Jan 2022",
+    "Genomic Findings": [
+      {
+        "Name": "NF1 splice site 6705-2A>C, Y863fs*15",
+        "Clinical": [],
+        "No Clinical": ["Selumetinib", "Trametinib"]
+      },
+      {
+        "Name": "DNMT3A splice site 1937-1G>A",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "NOTCH1 C1101fs*5", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 C242S", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 10 Muts/Mb",
+        "Clinical": [
+          "Atezolizumab",
+          "Cemiplimab",
+          "Durvalumab",
+          "Nivolumab",
+          "Pembrolizumab",
+          "Dostarlimab"
+        ],
+        "No Clinical": ["Avelumab"]
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Elevated Tumor Fraction Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "Y"
+  }
+]

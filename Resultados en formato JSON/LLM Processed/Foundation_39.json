@@ -1,0 +1,29 @@
+{
+  "document": "Foundation_39",
+  "Genomic Findings": [
+    {
+      "Name": "PALB2 S254fs*3, splice site 3113+1G>A",
+      "Clinical": ["Olaparib", "Talazoparib"],
+      "No Clinical": ["Niraparib", "Rucaparib"]
+    },
+    { "Name": "GNA13 K42N - subclonal", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Tumor Mutational Burden - 10 Mutations/Mb",
+      "Clinical": ["Atezolizumab", "Pembrolizumab"],
+      "No Clinical": [
+        "Avelumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Nivolumab + Ipilimumab"
+      ]
+    },
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

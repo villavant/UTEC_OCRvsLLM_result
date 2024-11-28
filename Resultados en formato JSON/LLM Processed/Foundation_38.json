@@ -1,0 +1,22 @@
+{
+  "document": "Foundation_38",
+  "Genomic Findings": [
+    { "Name": "KRAS G13D", "Clinical": [], "No Clinical": [] },
+    { "Name": "PIK3R1 M58 2del", "Clinical": [], "No Clinical": [] },
+    { "Name": "APC N778fs*1", "Clinical": [], "No Clinical": [] },
+    { "Name": "SOX9 R266 4fs*16", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 R175H", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

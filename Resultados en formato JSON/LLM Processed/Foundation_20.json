@@ -1,0 +1,18 @@
+{
+    "document": "Foundation_20",
+    "Genomic Findings": [
+        { "Name": "KRAS G12V", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Microsatellite status - MS-Stable",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }

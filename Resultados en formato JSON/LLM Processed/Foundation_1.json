@@ -1,0 +1,25 @@
+{
+  "document": "Foundation_1",
+  "Genomic Findings": [
+    { "Name": "KRAS - G12D 1%", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 - R342fs*5", "Clinical": [], "No Clinical": [] },
+    { "Name": "DNMT3A - W305*, Q573*", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Tumor Mutational Burden - 0 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite Status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Fraction - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

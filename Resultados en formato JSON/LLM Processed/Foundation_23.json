@@ -1,0 +1,35 @@
+{
+  "document": "Foundation_23",
+  "Genomic Findings": [
+    { "Name": "CDK4 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "KRAS amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "TET2 S42S424f4fs*3s*3", "Clinical": [], "No Clinical": [] },
+    { "Name": "ALK", "Clinical": [], "No Clinical": [] },
+    { "Name": "BRAF", "Clinical": [], "No Clinical": [] },
+    { "Name": "EGFR", "Clinical": [], "No Clinical": [] },
+    { "Name": "ERBB2", "Clinical": [], "No Clinical": [] },
+    { "Name": "RET", "Clinical": [], "No Clinical": [] },
+    { "Name": "ROS1", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Tumor Mutational Burden - 11 Muts/Mb",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Nivolumab + Ipilimumab",
+        "Pembrolizumab",
+        "Dostarlimab"
+      ],
+      "No Clinical": ["Avelumab"]
+    },
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

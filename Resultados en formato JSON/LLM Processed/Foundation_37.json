@@ -1,0 +1,41 @@
+{
+  "document": "Foundation_37",
+  "Genomic Findings": [
+    {
+      "Name": "PIK3CA H1047R",
+      "Clinical": ["Alpelisib + Fulvestrant"],
+      "No Clinical": ["Everolimus", "Temsirolimus"]
+    },
+    {
+      "Name": "MYC amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "PTEN Y174fs*15", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "NSD3 (WHSC1L1) amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "SETD2 R1694fs*17", "Clinical": [], "No Clinical": [] },
+    { "Name": "TET2 H266fs*24", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 R209fs*6", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "ZNF7003 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 6 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

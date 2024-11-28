@@ -1,0 +1,28 @@
+{
+  "document": "Foundation_51",
+  "Genomic Findings": [
+    {
+      "Name": "RET",
+      "Clinical": [
+        "Cabozantinib",
+        "Vandetanib",
+        "Pralsetinib",
+        "Selpercatinib"
+      ],
+      "No Clinical": ["Lenvatinib", "Sorafenib", "Sunitinib"]
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status -- MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden -- 8 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":4
+}

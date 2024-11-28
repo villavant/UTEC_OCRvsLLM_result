@@ -1,0 +1,236 @@
+[
+  {
+    
+    "document": "Foundation_1",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 02 March 2021",
+    "Report Date": "16 Mar 2021",
+    "Genomic Findings": [
+      { "Name": "KRAS G12D", "Clinical": [], "No Clinical": [] },
+      { "Name": "DNMT3A W305*, Q573*", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 R342fs*5", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 0 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_2",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 04 June 2021",
+    "Report Date": "22 Jun 2021",
+    "Genomic Findings": [
+      {
+        "Name": "EGFR amplification - equivocal, L858R",
+        "Clinical": [
+          "Afatinib",
+          "Dacomitinib",
+          "Erlotinib",
+          "Gefitinib",
+          "Osimertinib"
+        ],
+        "No Clinical": ["Cetuximab", "Panitumumab"]
+      },
+      {
+        "Name": "NF1 L2668fs*11",
+        "Clinical": [],
+        "No Clinical": ["Selumetinib", "Trametinib"]
+      },
+      { "Name": "MET C385Y", "Clinical": [], "No Clinical": [] },
+      { "Name": "DNMT3A W306*", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "TET2 splice site 3955-1G>A",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "TP53 Q38*", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_3",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN SITE Brain",
+    "Date of Collection": "DATE OF COLLECTION 07 November 2020",
+    "Report Date": "18 Jan 2021",
+    "Genomic Findings": [
+      {
+        "Name": "BRAF V600E - subclonal",
+        "Clinical": [],
+        "No Clinical": [
+          "Regorafenib",
+          "Dabrafenib",
+          "Dabrafenib + Trametinib",
+          "Encorafenib + Binimetinib",
+          "Selumetinib",
+          "Trametinib",
+          "Vemurafenib",
+          "Vemurafenib + Cobimetinib"
+        ]
+      },
+      {
+        "Name": "EGFR kinase domain duplication",
+        "Clinical": [],
+        "No Clinical": [
+          "Afatinib",
+          "Dacomitinib",
+          "Erlotinib",
+          "Gefitinib",
+          "Osimertinib"
+        ]
+      },
+      { "Name": "IDH1 R132H", "Clinical": [], "No Clinical": ["Ivosidenib"] },
+      {
+        "Name": "PIK3CA H1047R - subclonal",
+        "Clinical": [],
+        "No Clinical": ["Everolimus", "Temsirolimus"]
+      },
+      { "Name": "ATRX R808*", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 H179Q", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 0 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_4",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Thorax",
+    "Date of Collection": "DATE OF COLLECTION 03 February 2022",
+    "Report Date": "25 Feb 2022",
+    "Genomic Findings": [
+      {
+        "Name": "EGFR exon 19 deletion (E746_A750del)",
+        "Clinical": [
+          "Afatinib",
+          "Dacomitinib",
+          "Erlotinib",
+          "Gefitinib",
+          "Osimertinib"
+        ],
+        "No Clinical": []
+      },
+      {
+        "Name": "MET amplification - equivocal",
+        "Clinical": [
+          "Capmatinib",
+          "Crizotinib",
+          "Erlotinib",
+          "Tepotinib",
+          "Gefitinib",
+          "Osimertinib"
+        ],
+        "No Clinical": ["Cabozantinib"]
+      },
+      { "Name": "CCNE1 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "MYC amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "RNF43 R145*", "Clinical": [], "No Clinical": [] },
+      { "Name": "RAD21 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 P151T", "Clinical": [], "No Clinical": [] },
+      { "Name": "ZNF217 amplification", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 4 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_5",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lung",
+    "Date of Collection": "DATE OF COLLECTION 21 December 2020",
+    "Report Date": "01 Feb 2021",
+    "Genomic Findings": [
+      {
+        "Name": "EGFR amplification",
+        "Clinical": ["Afatinib", "Dacomitinib", "Erlotinib", "Gefitinib"],
+        "No Clinical": ["Cetuximab", "Panitumumab"]
+      },
+      {
+        "Name": "MET amplification - equivocal",
+        "Clinical": ["Capmatinib", "Crizotinib"],
+        "No Clinical": ["Cabozantinib"]
+      },
+      {
+        "Name": "HGF amplification - equivocal",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "RICTOR amplification", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "FGF10 amplification - equivocal",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "PARP1 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 splice site 376-1G>A", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  }
+]
+

@@ -1,0 +1,33 @@
+{
+  "document": "Foundation_41",
+  "Genomic Findings": [
+    {
+      "Name": "KRAS G13C",
+      "Clinical": ["Cetuximab", "Panitumumab"],
+      "No Clinical": []
+    },
+    { "Name": "PIK3C A - Q546K", "Clinical": [], "No Clinical": [] },
+    { "Name": "APC T1556f s*3, W6 99*", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "DNM T3A splic e site 1668-1G>A, Q5 73*",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "FAM123B S32S324*4*", "Clinical": [], "No Clinical": [] },
+    { "Name": "SMAD4 G419R", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 R17R174f4fs*2, P190Ts*2, P190T", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - 6 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "Tumor Fraction - 34%", "Clinical": [], "No Clinical": [] }
+  ]
+}

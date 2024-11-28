@@ -1,0 +1,44 @@
+{
+  "document": "Foundation_45",
+  "Genomic Findings": [
+    { "Name": "CTNNB1 S45del", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "ASXL1 G645fs*58, R549fs*2",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "CUL3 L210fs*20", "Clinical": [], "No Clinical": [] },
+    { "Name": "FLCN R477*", "Clinical": [], "No Clinical": [] },
+    { "Name": "FUBP1 S11fs*43", "Clinical": [], "No Clinical": [] },
+    { "Name": "PTPRO Q484fs*14", "Clinical": [], "No Clinical": [] },
+    { "Name": "SMARCA4 R1243W", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite statuse status - MSI-High",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Pembrolizumab",
+        "Dostarlimab"
+      ],
+      "No Clinical": ["Avelumab"]
+    },
+    {
+      "Name": "Tumor Mutational Bur umor Mutational Burden - 34 Muts/Mb",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Nivolumab + Ipilimumab",
+        "Pembrolizumab",
+        "Dostarlimab"
+      ],
+      "No Clinical": ["Avelumab"]
+    }
+  ],
+  "k":4
+}

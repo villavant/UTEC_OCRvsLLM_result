@@ -1,0 +1,37 @@
+{
+  "document": "Foundation_12",
+  "Genomic Findings": [
+    {
+      "Name": "BRAF V600E",
+      "Clinical": [
+        "Dabrafenib + Trametinib",
+        "Encorafenib + Binimetinib",
+        "Vemurafenib + Cobimetinib",
+        "Dabrafenib",
+        "Vemurafenib",
+        "Vemurafenib + Cobimetinib + Atezolizumab",
+        "Trametinib"
+      ],
+      "No Clinical": ["Selumetinib"]
+    },
+    {
+      "Name": "CDKN2A/B (p16INK4a V82fs*44 and p14ARF R96fs*44 and p14ARF R96fs*7)",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "MLL2 D277669N", "Clinical": [], "No Clinical": [] },
+    { "Name": "TERT promoter -124C>T", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status: MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden: 0 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

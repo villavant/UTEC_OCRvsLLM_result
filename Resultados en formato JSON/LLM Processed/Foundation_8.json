@@ -1,0 +1,50 @@
+{
+  "document": "Foundation_8",
+  "Genomic Findings": [
+    {
+      "Name": "CCND1 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "CTNNB1 S45F", "Clinical": [], "No Clinical": [] },
+
+    { "Name": "ERBB3 Q809R", "Clinical": [], "No Clinical": [] },
+    { "Name": "MTTAP loss of exons 2-8", "Clinical": [], "No Clinical": [] },
+
+    {
+      "Name": "CDKN2A/B CDKN2B loss, CDKN2A loss",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "EP300 Q341*", "Clinical": [], "No Clinical": [] },
+
+    {
+      "Name": "FGF19 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "FGF3 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "FGF4 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "SMAD4 R361H", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status -- MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden -- 1 Mut/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

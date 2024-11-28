@@ -1,0 +1,37 @@
+{
+  "document": "Foundation_35",
+  "Genomic Findings": [
+    { "Name": "AKT2 amplification", "Clinical": [], "No Clinical": [] },    
+    {
+      "Name": "CCCNE1 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "CIC E1356*", "Clinical": [], "No Clinical": [] },
+    { "Name": "MUTYH Q216*", "Clinical": [], "No Clinical": [] },
+    { "Name": "RB1 R355fs*6", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 M246L", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - 25 Muts/Mb",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Pembrolizumab",
+        "Dostarlimab"
+      ],
+      "No Clinical": ["Avelumab"]
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "Tumor Fraction - 21%", "Clinical": [], "No Clinical": [] }
+  ]
+}
+
+

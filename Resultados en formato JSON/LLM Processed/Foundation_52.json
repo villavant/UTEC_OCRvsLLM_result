@@ -1,0 +1,23 @@
+{
+  "document": "Foundation_52",
+  "Genomic Findings": [
+    {
+      "Name": "ATM-D1099fs*15",
+      "Clinical": [],
+      "No Clinical": ["Niraparib", "Olaparib", "Rucaparib", "Talazoparib"]
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":5
+}

@@ -1,0 +1,29 @@
+{
+  "document": "Foundation_44",
+  "Genomic Findings": [
+    {
+      "Name": "BRCA1 E111fs*3",
+      "Clinical": ["Olaparib", "Talazoparib"],
+      "No Clinical": ["Niraparib", "Rucaparib"]
+    },
+    {
+      "Name": "RAD21 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "TP53 I255F", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 5 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":4
+}

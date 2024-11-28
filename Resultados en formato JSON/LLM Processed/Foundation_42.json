@@ -1,0 +1,21 @@
+{
+  "document": "Foundation_42",
+  "Genomic Findings": [
+    { "Name": "PBRM1 D18fs*27", "Clinical": [], "No Clinical": [] },
+    { "Name": "SETD2 Q7*", "Clinical": [], "No Clinical": [] },
+    { "Name": "VHL N141fs*3", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite statuse status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":6
+}

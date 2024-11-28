@@ -1,0 +1,63 @@
+{
+  "document": "Foundation_10",
+  "Genomic Findings": [
+    {
+      "Name": "FBXW7 - Q41*",
+      "Clinical": [],
+      "No Clinical": ["Everolimus", "Temsirolimus"]
+    },
+    {
+      "Name": "SSTK11 L85*",
+      "Clinical": [],
+      "No Clinical": ["Everolimus", "Temsirolimus"]
+    },
+    { "Name": "BRAF K601N", "Clinical": [], "No Clinical": [] },
+    { "Name": "KRAS G12R", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "APC rearrangement exon 16",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "ATRX S1125fs*28, ins*28, inversion exon 9",
+      "Clinical": [],
+      "No Clinical": []
+    },
+
+    {
+      "Name": "CDKN2A/B p16INK4a Y44fs*1",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "CREBBP R1446C", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "DNM T3A R882H, Y481*, P904L, splicing site 1015-1G>T, R635Q",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "KEL splicing site 15993-1G>T",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Tumor Mutational Burden - 18 Muts/Mb",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Pembrolizumab"
+      ],
+      "No Clinical": ["Avelumab"]
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "Tumor Fraction - 19%", "Clinical": [], "No Clinical": [] }
+  ]
+}

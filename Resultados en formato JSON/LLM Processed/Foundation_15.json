@@ -1,0 +1,20 @@
+{
+    "document": "Foundation_15",
+    "Genomic Findings": [
+        { "Name": "MYC amplification", "Clinical": [], "No Clinical": [] },
+        { "Name": "CTNNB1 Q28*", "Clinical": [], "No Clinical": [] },
+        { "Name": "TP53 C176F", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Microsatellite status - MS-Stable",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Mutational Burden - 5 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+}

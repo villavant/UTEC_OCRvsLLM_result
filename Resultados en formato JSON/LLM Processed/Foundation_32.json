@@ -1,0 +1,32 @@
+{
+  "document": "Foundation_32",
+  "Genomic Findings": [
+    {
+      "Name": "BRAF V600E",
+      "Clinical": ["Dabrafenib + Trametinib"],
+      "No Clinical": [
+        "Vemurafenib",
+        "Dabrafenib",
+        "Encorafenib + Binimetinib",
+        "Selumetinib",
+        "Trametinib",
+        "Vemurafenib + Cobimetinib"
+      ]
+    },
+    { "Name": "MLL2 S166*", "Clinical": [], "No Clinical": [] },
+    { "Name": "SETD2 T305f s*4", "Clinical": [], "No Clinical": [] },
+    { "Name": "SMAD4 R36R361H1H", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

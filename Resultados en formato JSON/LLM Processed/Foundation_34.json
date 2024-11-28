@@ -1,0 +1,26 @@
+{
+  "document": "Foundation_34",
+  "Genomic Findings": [
+    {
+      "Name": "CDK4 amplification",
+      "Clinical": [],
+      "No Clinical": ["Abemaciclib"]
+    },
+    { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "CBL C384Y - subclonal", "Clinical": [], "No Clinical": [] },
+    { "Name": "FRS2 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "HMGA2 HMGA2-TSFM fusion", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 2 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

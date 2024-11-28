@@ -1,0 +1,173 @@
+[
+  {
+    "document": "Foundation_31",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Pleura",
+    "Date of Collection": "DATE OF COLLECTION 03 March 2021",
+    "Report Date": "28 May 2021",
+    "Genomic Findings": [
+      {
+        "Name": "BRAF V600E",
+        "Clinical": ["Dabrafenib + Trametinib"],
+        "No Clinical": [
+          "Vemurafenib",
+          "Dabrafenib",
+          "Encorafenib + Binimetinib",
+          "Selumetinib",
+          "Trametinib",
+          "Vemurafenib + Cobimetinib"
+        ]
+      },
+      { "Name": "MLL2 S166*", "Clinical": [], "No Clinical": [] },
+      { "Name": "SETD2 T305fs*4", "Clinical": [], "No Clinical": [] },
+      { "Name": "SMAD4 R361H", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_32",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Pleura",
+    "Date of Collection": "DATE OF COLLECTION 03 March 2021",
+    "Report Date": "28 May 2021",
+    "Genomic Findings": [
+      {
+        "Name": "BRAF V600E",
+        "Clinical": ["Dabrafenib + Trametinib"],
+        "No Clinical": [
+          "Vemurafenib",
+          "Dabrafenib",
+          "Encorafenib + Binimetinib",
+          "Selumetinib",
+          "Trametinib",
+          "Vemurafenib + Cobimetinib"
+        ]
+      },
+      { "Name": "MLL2 S166*", "Clinical": [], "No Clinical": [] },
+      { "Name": "SETD2 T305fs*4", "Clinical": [], "No Clinical": [] },
+      { "Name": "SMAD4 R361H", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_33",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Kidney",
+    "Date of Collection": "DATE OF COLLECTION 06 July 2021",
+    "Report Date": "12 Sep 2021",
+    "Genomic Findings": [
+      { "Name": "PBRM1 D18fs*27", "Clinical": [], "No Clinical": [] },
+      { "Name": "SETD2 Q7*", "Clinical": [], "No Clinical": [] },
+      { "Name": "VHL N141fs*3", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_34",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Retroperitoneum",
+    "Date of Collection": "DATE OF COLLECTION 15 October 2021",
+    "Report Date": "28 Feb 2022",
+    "Genomic Findings": [
+      {
+        "Name": "CDK4 amplification",
+        "Clinical": [],
+        "No Clinical": ["Abemaciclib"]
+      },
+      { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "CBL C384Y - subclonal", "Clinical": [], "No Clinical": [] },
+      { "Name": "FRS2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "HMGA2 HMGA2-TSFM fusion", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 2 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_35",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 17 November 2021",
+    "Report Date": "30 Nov 2021",
+    "Genomic Findings": [
+      { "Name": "AKT2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "STK11 Q220*", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "CCNE1 amplification - equivocal",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "CIC E1356*", "Clinical": [], "No Clinical": [] },
+      { "Name": "MUTYH Q216*", "Clinical": [], "No Clinical": [] },
+      { "Name": "RB1 R355fs*6", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 M246L", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 25 Muts/Mb",
+        "Clinical": [
+          "Atezolizumab",
+          "Cemiplimab",
+          "Durvalumab",
+          "Nivolumab",
+          "Pembrolizumab",
+          "Dostarlimab"
+        ],
+        "No Clinical": ["Avelumab"]
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "Tumor Fraction - 21%", "Clinical": [], "No Clinical": [] }
+    ],
+    "Listado de Terapias": "Y"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "document": "Foundation_50",
+  "Genomic Findings": [
+    {
+      "Name": "ALK - EML4-ALK fusion (Variant 2)",
+      "Clinical": [
+        "Alectinib",
+        "Brigatinib",
+        "Ceritinib",
+        "Crizotinib",
+        "Lorlatinib",
+        "Entrectinib"
+      ],
+      "No Clinical": []
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 2 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":4
+}

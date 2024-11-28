@@ -1,0 +1,41 @@
+{
+    "document": "Foundation_5",
+    "Genomic Findings": [
+        {
+          "Name": "EGFR - amplification",
+          "Clinical": ["Afatinib", "Dacomitinib", "Erlotinib", "Gefitinib"],
+          "No Clinical": ["Cetuximab", "Panitumumab"]
+        },
+        {
+          "Name": "MET - amplification",
+          "Clinical": ["Capmatinib", "Crizotinib"],
+          "No Clinical": ["Cabozantinib"]
+        },
+        {
+          "Name": "HGF - amplification - equivocal",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        { "Name": "RICTOR - amplification", "Clinical": [], "No Clinical": [] },
+        {
+          "Name": "FGF10 - amplification - equivocal",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        { "Name": "PPARP1 - amplification", "Clinical": [], "No Clinical": [] },
+        { "Name": "TP53 splice site 3776-6-1G>A", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Microsatellite status - MS-Stable",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }
+  

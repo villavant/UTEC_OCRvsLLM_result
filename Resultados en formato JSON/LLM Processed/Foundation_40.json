@@ -1,0 +1,33 @@
+{
+  "document": "Foundation_40",
+  "Genomic Findings": [
+    {
+      "Name": "FGFR2 amplification",
+      "Clinical": [],
+      "No Clinical": ["Erdafitinib", "Pazopanib"]
+    },
+    {
+      "Name": "PTEN deletion exon 8",
+      "Clinical": [],
+      "No Clinical": ["Everolimus", "Temsirolimus"]
+    },
+    { "Name": "TP53 splice site 375+1G>A", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 6 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": " PTEN - deletion exon 8",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

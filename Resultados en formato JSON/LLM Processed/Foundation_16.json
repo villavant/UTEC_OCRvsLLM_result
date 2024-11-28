@@ -1,0 +1,26 @@
+{
+  "document": "Foundation_16",
+  "Genomic Findings": [
+    { "Name": "KRAS - amplification, G12D", "Clinical": [], "No Clinical": [] },
+    { "Name": "MYC amplification", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "CDKN2A/B p16INK4a R58* and p14ARF P72L",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}
+
+

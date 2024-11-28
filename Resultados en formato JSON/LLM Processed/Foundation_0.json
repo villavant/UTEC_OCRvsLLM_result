@@ -1,0 +1,29 @@
+{
+  "document": "Foundation_0",
+  "Genomic Findings": [
+    {
+      "Name": "EGFR L861Q",
+      "Clinical": [
+        "Afatinib",
+        "Dacomitinib",
+        "Erlotinib",
+        "Gefitinib",
+        "Osimertinib"
+      ],
+      "No Clinical": []
+    },
+    { "Name": "TP53 K305fs*40", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 1 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

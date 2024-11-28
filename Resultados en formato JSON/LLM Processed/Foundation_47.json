@@ -1,0 +1,35 @@
+{
+  "document": "Foundation_47",
+  "Genomic Findings": [
+    {
+      "Name": "NF1 Y489C",
+      "Clinical": [],
+      "No Clinical": ["Selumetinib", "Trametinib"]
+    },
+    { "Name": "EGFR V292L", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "RAD21 amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "SRCC amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "TP53 E294fs*51", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 6 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":4
+}

@@ -1,0 +1,35 @@
+{
+  "document": "Foundation_48",
+  "Genomic Findings": [
+    { "Name": "ARID1A Q207fs*17", "Clinical": [], "No Clinical": [] },
+    { "Name": "FBXXW7 R367*7*", "Clinical": [], "No Clinical": [] },
+    { "Name": "APC R283*, E1397*", "Clinical": [], "No Clinical": [] },
+    { "Name": "KDM5C M506I", "Clinical": [], "No Clinical": [] },
+    { "Name": "PTPN11 D61Y", "Clinical": [], "No Clinical": [] },
+    { "Name": "SDHA R75*", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "TERT Tpromoter -146C>T, -124C>T",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "TP53 R306*, C135Y", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - 16 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Fraction - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":5
+}

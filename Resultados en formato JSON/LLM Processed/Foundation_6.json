@@ -1,0 +1,23 @@
+{
+    "document": "Foundation_6",
+    "Genomic Findings": [
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Tumor Mutational Burden - 1 Mut/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Microsatellite status - MSI-High Not Detected",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Fraction - Cannot Be Determined",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }
+  

@@ -1,0 +1,46 @@
+{
+  "document": "Foundation_4",
+  "Genomic Findings": [
+    {
+      "Name": "EGFR exon 19 deletion (E746-A750del)",
+      "Clinical": [
+        "Afatinib",
+        "Dacomitinib",
+        "Erlotinib",
+        "Gefitinib",
+        "Osimertinib"
+      ],
+      "No Clinical": []
+    },
+    {
+      "Name": "MET amplification - equivocal",
+      "Clinical": [
+        "Capmatinib",
+        "Crizotinib",
+        "Erlotinib",
+        "Tepotinib",
+        "Gefitinib",
+        "Osimertinib"
+      ],
+      "No Clinical": ["Cabozantinib"]
+    },
+    { "Name": "CCNE1 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "MYCC amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "RNF4 R145*", "Clinical": [], "No Clinical": [] },
+    { "Name": "RAD21 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 P15P151T1T", "Clinical": [], "No Clinical": [] },
+    { "Name": "ZNF217 amplification", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 4 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

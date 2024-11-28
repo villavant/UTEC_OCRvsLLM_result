@@ -1,0 +1,40 @@
+{
+    "document": "Foundation_24",
+    "Genomic Findings": [
+        {
+            "Name": "ERBB2 A775_G776insYVMA",
+            "Clinical": ["Afatinib"],
+            "No Clinical": [
+              "Ado-trastuzumab emtansine",
+              "Fam-trastuzumab deruxtecan",
+              "Trastuzumab",
+              "Trastuzumab + Pertuzumab",
+              "Lapatinib"
+            ]
+          },
+        { "Name": "IDH1 R132H", "Clinical": [], "No Clinical": ["Ivosidenib"] },
+        { "Name": "APC c.1545*", "Clinical": [], "No Clinical": [] },
+        { "Name": "DNA T3A W860R", "Clinical": [], "No Clinical": [] },
+        { "Name": "TP53 S127F", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Blood Tumor Mutational Burden: <1 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Microsatellite status - MSI-High Not Detected",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Fraction - Elevated Tumor Fraction Not Detected",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }
+
+
+ 

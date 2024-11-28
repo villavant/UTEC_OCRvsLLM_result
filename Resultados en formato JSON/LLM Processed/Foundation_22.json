@@ -1,0 +1,32 @@
+{
+  "document": "Foundation_22",
+  "Genomic Findings": [
+    {
+      "Name": "NF1 - H1460fs*9",
+      "Clinical": [],
+      "No Clinical": ["Selumetinib", "Trametinib"]
+    },
+    { "Name": "MTAP loss", "Clinical": [], "No Clinical": [] },
+    { "Name": "BCL6 N73S", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "CDKN2A/B - CDKN2A loss, CDKN2B loss",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "MAP2K4 loss exons 2-11", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 - R196Q subclonal†", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status: MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden: 3 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}
+ 

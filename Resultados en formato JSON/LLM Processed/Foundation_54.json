@@ -1,0 +1,27 @@
+{
+  "document": "Foundation_54",
+  "Genomic Findings": [
+    { "Name": "CCNE1 amplification", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "GAGATTA6 amplification",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "RAD21 W18*", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 R248Q, I195T, D281N", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - 28 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "Tumor Fraction - 58%", "Clinical": [], "No Clinical": [] }
+  ],
+  "k":4
+}

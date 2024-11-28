@@ -1,0 +1,29 @@
+{
+  "document": "Foundation_36",
+  "Genomic Findings": [
+    {
+      "Name": "STK11TK11 splicing site 465-e222_A2_504>A",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "SMARCCA4A4Q638fs*10", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 A39fs*6", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - 3 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite status - MSI-High Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Fraction - Elevated Tumor Fraction Not Detected",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

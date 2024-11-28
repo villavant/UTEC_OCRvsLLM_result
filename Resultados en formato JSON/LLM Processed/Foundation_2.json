@@ -1,0 +1,46 @@
+{
+  "document": "Foundation_2",
+  "Genomic Findings": [
+    {
+      "Name": "EGFR amplification - equivocal, L858R",
+      "Clinical": [
+        "Afatinib",
+        "Dacomitinib",
+        "Erlotinib",
+        "Gefitinib",
+        "Osimertinib"
+      ],
+      "No Clinical": ["Cetuximab", "Panitumumab"]
+    },
+    {
+      "Name": "NF1 L2668fs*11",
+      "Clinical": [],
+      "No Clinical": ["Selumetinib", "Trametinib"]
+    },
+    { "Name": "MET C385Y", "Clinical": [], "No Clinical": [] },
+    { "Name": "DNM T3A W306*", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "TET2 splice site 3955-1G>A",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "TP53 Q38*", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Blood Tumor Mutational Burden - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Microsatellite status - MSI-High",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Fraction - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

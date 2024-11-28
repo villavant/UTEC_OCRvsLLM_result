@@ -1,0 +1,26 @@
+{
+  "document": "Foundation_30",
+  "Genomic Findings": [
+    { "Name": "FGFGR1 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "NSD3 (WHS C1L1) amplification",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "STAG2 Q1190*", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 I232N", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

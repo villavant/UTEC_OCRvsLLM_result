@@ -1,0 +1,25 @@
+{
+  "document": "Foundation_3",
+  "Genomic Findings": [
+    { "Name": "IDH1 R132H", "Clinical": [], "No Clinical": ["Ivosidenib"] },
+    {
+      "Name": "PIK3CA H104R (subclonal)",
+      "Clinical": [],
+      "No Clinical": ["Everolimus", "Temsirolimus"]
+    },
+    { "Name": "ATRX R808*", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 H179Q", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status: Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden: 0 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

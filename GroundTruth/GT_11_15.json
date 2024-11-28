@@ -1,0 +1,153 @@
+[
+  {
+    "document": "Foundation_11",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Head and Neck",
+    "Date of Collection": "DATE OF COLLECTION 04 December 2020",
+    "Report Date": "18 Jul 2021",
+    "Genomic Findings": [
+      {
+        "Name": "MAP2K1 (MEK1) I103_K104del",
+        "Clinical": [],
+        "No Clinical": ["Selumetinib", "Trametinib"]
+      }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_12",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Skin",
+    "Date of Collection": "DATE OF COLLECTION 13 May 2021",
+    "Report Date": "21 Jun 2021",
+    "Genomic Findings": [
+      {
+        "Name": "BRAF V600E",
+        "Clinical": [
+          "Dabrafenib + Trametinib",
+          "Encorafenib + Binimetinib",
+          "Vemurafenib + Cobimetinib",
+          "Dabrafenib",
+          "Vemurafenib",
+          "Vemurafenib + Cobimetinib + Atezolizumab",
+          "Trametinib"
+        ],
+        "No Clinical": ["Selumetinib"]
+      },
+      {
+        "Name": "CDKN2A/B p16INK4a V82fs*44 and p14ARF R96fs*71",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "MLL2 D2769N", "Clinical": [], "No Clinical": [] },
+      { "Name": "TERT promoter -124C>T", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 0 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_13",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 31 May 2021",
+    "Report Date": "15 Jun 2021",
+    "Genomic Findings": [
+      { "Name": "CHEK2 R137*", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_14",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 23 April 2021",
+    "Report Date": "04 May 2021",
+    "Genomic Findings": [
+      { "Name": "KRAS G12V", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 C176F, L111M", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_15",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Stomach",
+    "Date of Collection": "DATE OF COLLECTION 02 November 2020",
+    "Report Date": "03 May 2021",
+    "Genomic Findings": [
+      { "Name": "MYC amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "CTNNB1 Q28*", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 C176F", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 5 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  }
+]

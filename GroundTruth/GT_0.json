@@ -1,0 +1,32 @@
+[
+  {
+    "document": "Foundation_0",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lung",
+    "Date of Collection": "DATE OF COLLECTION 12 March 2021",
+    "Report Date": "21 May 2021",
+    "Genomic Findings": [
+      {
+        "Name": "EGFR L861Q, R776C",
+        "Clinical": [
+          "Afatinib",
+          "Dacomitinib",
+          "Erlotinib",
+          "Gefitinib",
+          "Osimertinib"
+        ],
+        "No Clinical": []
+      },
+      { "Name": "TP53 K305fs*40", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      { "Name": "Microsatellite status - MS-Stable", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  }
+]

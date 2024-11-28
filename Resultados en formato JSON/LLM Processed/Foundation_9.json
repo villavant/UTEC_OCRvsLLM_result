@@ -1,0 +1,38 @@
+{
+    "document": "Foundation_9",
+    "Genomic Findings": [
+        {
+          "Name": "NF1 - R2258* (NF1 R2258*)",
+          "Clinical": [],
+          "No Clinical": ["Selumetinib", "Trametinib"]
+        },
+        {
+          "Name": "C17orf39 amplification - equivocal",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "CCND3 amplification - equivocal",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "CDKN2A/B - CDKN2A loss, CDKN2B loss",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        { "Name": "ESR1 T311M", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Microsatellite status - MS-Stable",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Mutational Burden - 9 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }

@@ -1,0 +1,36 @@
+{
+  "document": "Foundation_53",
+  "Genomic Findings": [
+    {
+      "Name": "MET amplification, exon 14 splice site (3028+2_3028+23del22)",
+      "Clinical": ["Capmatinib", "Crizotinib", "Tepotinib"],
+      "No Clinical": ["Cabozantinib"]
+    },
+    { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "MTAP loss", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "MMYYCC amplification - equivocal",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "CDKN2A/B loss",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "PARP3 W101*", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 6 Mutations/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "k":4
+}

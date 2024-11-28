@@ -1,0 +1,50 @@
+{
+  "document": "Foundation_21",
+  "Genomic Findings": [
+    {
+      "Name": "PDCD1LG2 (PD-L2) amplification",
+      "Clinical": [
+        "Atezolizumab",
+        "Cemiplimab",
+        "Durvalumab",
+        "Nivolumab",
+        "Pembrolizumab",
+        "Dostarlimab"
+      ],
+      "No Clinical": ["Avelumab"]
+    },
+    {
+      "Name": "MET exon 14 splice site (2888-1G>C) amplification",
+      "Clinical": ["Capmatinib", "Crizotinib", "Tepotinib"],
+      "No Clinical": ["Cabozantinib"]
+    },
+    {
+      "Name": "ATM R337H",
+      "Clinical": [],
+      "No Clinical": ["Niraparib", "Olaparib", "Rucaparib", "Talazoparib"]
+    },
+    { "Name": "CDK4 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "CDK6 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+    {
+      "Name": "CDKN2A/B p16INK4a loss and p14ARF loss exons 2-3",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "EPHB4 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "ERBB3 amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "JAK2 amplification", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 9 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "document": "Foundation_18",
+  "Genomic Findings": [
+    {
+      "Name": "EGFR exon 19 deletion (L747_A750>P)",
+      "Clinical": [
+        "Afatinib",
+        "Dacomitinib",
+        "Erlotinib",
+        "Gefitinib",
+        "Osimertinib"
+      ],
+      "No Clinical": []
+    },
+    { "Name": "U2AF1 S34F", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

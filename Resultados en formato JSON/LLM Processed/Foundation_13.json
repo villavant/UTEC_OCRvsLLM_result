@@ -1,0 +1,23 @@
+{
+    "document": "Foundation_13",
+    "Genomic Findings": [
+        { "Name": "CHEK2 - R137*", "Clinical": [], "No Clinical": [] }
+      ],
+      "Biomakers findings": [
+        {
+          "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Microsatellite status - MSI-High Not Detected",
+          "Clinical": [],
+          "No Clinical": []
+        },
+        {
+          "Name": "Tumor Fraction - Cannot Be Determined",
+          "Clinical": [],
+          "No Clinical": []
+        }
+      ]
+  }

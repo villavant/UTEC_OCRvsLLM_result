@@ -1,0 +1,33 @@
+{
+  "document": "Foundation_29",
+  "Genomic Findings": [
+    {
+      "Name": "ROS1-SDC4 fusion",
+      "Clinical": [
+        "Ceritinib",
+        "Crizotinib",
+        "Entrectinib",
+        "Lorlatinib",
+        "Brigatinib"
+      ],
+      "No Clinical": ["Cabozantinib"]
+    },
+    {
+      "Name": "CDKN2A/B p16INK4a splice site 15-1G>A and p14ARF splice site 19-4-1G>A",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Micron Satellite Status (Cannot Be Determined)",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - Cannot Be Determined",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

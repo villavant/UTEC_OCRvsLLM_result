@@ -1,0 +1,194 @@
+[
+  {
+    "document": "Foundation_51",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lymph Node",
+    "Date of Collection": "DATE OF COLLECTION 15 December 2018",
+    "Report Date": "20 Jul 2021",
+    "Genomic Findings": [
+      {
+        "Name": "RET A883F",
+        "Clinical": [
+          "Cabozantinib",
+          "Vandetanib",
+          "Pralsetinib",
+          "Selpercatinib"
+        ],
+        "No Clinical": ["Lenvatinib", "Sorafenib", "Sunitinib"]
+      }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_52",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lung",
+    "Date of Collection": "DATE OF COLLECTION 08 August 2020",
+    "Report Date": "19 Jan 2021",
+    "Genomic Findings": [
+      {
+        "Name": "ATM D1099fs*15",
+        "Clinical": [],
+        "No Clinical": ["Niraparib", "Olaparib", "Rucaparib", "Talazoparib"]
+      }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_53",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Pleura",
+    "Date of Collection": "DATE OF COLLECTION 06 April 2021",
+    "Report Date": "05 May 2021",
+    "Genomic Findings": [
+      {
+        "Name": "MET amplification, exon 14 splice site (3028+2_3028+23del22)",
+        "Clinical": ["Capmatinib", "Crizotinib", "Tepotinib"],
+        "No Clinical": ["Cabozantinib"]
+      },
+      { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "MTAP loss", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "MYC amplification - equivocal",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "CDKN2A/B CDKN2A loss, CDKN2B loss",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "PARP3 W101*", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 6 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_54",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 11 February 2021",
+    "Report Date": "26 Feb 2021",
+    "Genomic Findings": [
+      { "Name": "CCNE1 amplification", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "GATA6 amplification - equivocal",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "RAD21 W18*", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 R248Q, I195T, D281N", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 28 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "Tumor Fraction - 58%", "Clinical": [], "No Clinical": [] }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_55",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 18 March 2021",
+    "Report Date": "31 Mar 2021",
+    "Genomic Findings": [
+      { "Name": "DNMT3A K766fs*15, R771*", "Clinical": [], "No Clinical": [] },
+      { "Name": "JAK2 V617F", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_56",
+    "Specimen Type": "SPECIMEN TYPE Blood",
+    "Specimen Site": "SPECIMEN",
+    "Date of Collection": "DATE OF COLLECTION 23 February 2021",
+    "Report Date": "11 Mar 2021",
+    "Genomic Findings": [
+      {
+        "Name": "ATM R337C",
+        "Clinical": ["Olaparib"],
+        "No Clinical": ["Niraparib", "Rucaparib", "Talazoparib"]
+      },
+      { "Name": "TP53 P82L", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Blood Tumor Mutational Burden - 1 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Microsatellite status - MSI-High Not Detected",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Fraction - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  }
+]

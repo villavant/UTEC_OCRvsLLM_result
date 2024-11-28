@@ -1,0 +1,41 @@
+{
+  "document": "Foundation_28",
+  "Genomic Findings": [
+    {
+      "Name": "ERBB2 amplification",
+      "Clinical": [
+        "Ado-trastuzumab emtansine",
+        "Trastuzumab",
+        "Trastuzumab + Pertuzumab",
+        "Trastuzumab + Tucatinib",
+        "Fam-trastuzumab deruxtecan",
+        "Lapatinib",
+        "Lapatinib + Letrozole",
+        "Neratinib",
+        "Margetuximab"
+      ],
+      "No Clinical": ["Afatinib", "Dacomitinib"]
+    },
+    {
+      "Name": "CDK12 rearrangement exon 4",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    { "Name": "RICTOR amplification", "Clinical": [], "No Clinical": [] },
+    { "Name": "CDKN2A/B p16INK4a G89V", "Clinical": [], "No Clinical": [] },
+    { "Name": "FAM123B G605D", "Clinical": [], "No Clinical": [] },
+    { "Name": "TP53 loss exons 10-11", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    },
+    {
+      "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}

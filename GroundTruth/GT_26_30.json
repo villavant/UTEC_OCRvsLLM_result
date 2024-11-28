@@ -1,0 +1,188 @@
+[
+  {
+    "document": "Foundation_26",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Kidney",
+    "Date of Collection": "DATE OF COLLECTION 06 July 2021",
+    "Report Date": "12 Sep 2021",
+    "Genomic Findings": [
+      { "Name": "PBRM1 D18fs*27", "Clinical": [], "No Clinical": [] },
+      { "Name": "SETD2 Q7*", "Clinical": [], "No Clinical": [] },
+      { "Name": "VHL N141fs*3", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_27",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lymph Node",
+    "Date of Collection": "DATE OF COLLECTION 28 December 2020",
+    "Report Date": "19 Jan 2021",
+    "Genomic Findings": [
+      {
+        "Name": "ERBB2 amplification",
+        "Clinical": [
+          "Ado-trastuzumab emtansine",
+          "Trastuzumab",
+          "Trastuzumab + Pertuzumab",
+          "Trastuzumab + Tucatinib",
+          "Fam-trastuzumab deruxtecan",
+          "Lapatinib",
+          "Lapatinib + Letrozole",
+          "Neratinib",
+          "Margetuximab"
+        ],
+        "No Clinical": ["Afatinib", "Dacomitinib"]
+      },
+      {
+        "Name": "CDK12 rearrangement exon 4",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "RICTOR amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "CDKN2A/B p16INK4a G89V", "Clinical": [], "No Clinical": [] },
+      { "Name": "FAM123B G605D", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 loss exons 10-11", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_28",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lymph Node",
+    "Date of Collection": "DATE OF COLLECTION 28 December 2020",
+    "Report Date": "19 Jan 2021",
+    "Genomic Findings": [
+      {
+        "Name": "ERBB2 amplification",
+        "Clinical": [
+          "Ado-trastuzumab emtansine",
+          "Trastuzumab",
+          "Trastuzumab + Pertuzumab",
+          "Trastuzumab + Tucatinib",
+          "Fam-trastuzumab deruxtecan",
+          "Lapatinib",
+          "Lapatinib + Letrozole",
+          "Neratinib",
+          "Margetuximab"
+        ],
+        "No Clinical": ["Afatinib", "Dacomitinib"]
+      },
+      {
+        "Name": "CDK12 rearrangement exon 4",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "RICTOR amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "CDKN2A/B p16INK4a G89V", "Clinical": [], "No Clinical": [] },
+      { "Name": "FAM123B G605D", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 loss exons 10-11", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 3 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_29",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Lung",
+    "Date of Collection": "DATE OF COLLECTION 28 December 2021",
+    "Report Date": "28 Jan 2022",
+    "Genomic Findings": [
+      {
+        "Name": "ROS1 SDC4-ROS1 fusion",
+        "Clinical": [
+          "Ceritinib",
+          "Crizotinib",
+          "Entrectinib",
+          "Lorlatinib",
+          "Brigatinib"
+        ],
+        "No Clinical": ["Cabozantinib"]
+      },
+      {
+        "Name": "CDKN2A/B p16INK4a splice site 151-1G>A and p14ARF splice site 194-1G>A",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - Cannot Be Determined",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  },
+  {
+    "document": "Foundation_30",
+    "Specimen Type": "SPECIMEN TYPE Block",
+    "Specimen Site": "SPECIMEN SITE Chest Wall",
+    "Date of Collection": "DATE OF COLLECTION 06 October 2021",
+    "Report Date": "01 Feb 2022",
+    "Genomic Findings": [
+      { "Name": "FGFR1 amplification", "Clinical": [], "No Clinical": [] },
+      { "Name": "MDM2 amplification", "Clinical": [], "No Clinical": [] },
+      {
+        "Name": "NSD3 (WHSC1L1) amplification",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      { "Name": "STAG2 Q1190*", "Clinical": [], "No Clinical": [] },
+      { "Name": "TP53 I232N", "Clinical": [], "No Clinical": [] }
+    ],
+    "Biomakers findings": [
+      {
+        "Name": "Microsatellite status - MS-Stable",
+        "Clinical": [],
+        "No Clinical": []
+      },
+      {
+        "Name": "Tumor Mutational Burden - 8 Muts/Mb",
+        "Clinical": [],
+        "No Clinical": []
+      }
+    ],
+    "Listado de Terapias": "N"
+  }
+]

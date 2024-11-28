@@ -1,0 +1,16 @@
+{
+  "document": "Foundation_33",
+  "Genomic Findings": [
+    { "Name": "PBRM1 D18fs*27", "Clinical": [], "No Clinical": [] },
+    { "Name": "SETD2 Q7*", "Clinical": [], "No Clinical": [] },
+    { "Name": "VHL N141fs*3", "Clinical": [], "No Clinical": [] }
+  ],
+  "Biomakers findings": [
+    {
+      "Name": "Microsatellite status - MS-Stable",
+      "Clinical": [],
+      "No Clinical": []
+    }
+  ]
+}
+
